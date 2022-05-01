@@ -50,3 +50,7 @@ input {
 label {
     font-size: 1.1rem;
 }
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

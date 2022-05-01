@@ -17,7 +17,7 @@ function HomePage() {
         <h3 className={styles.title}>
           Welcome to Next.js Internet Computer Starter Template!
         </h3>
-
+        <button className="mt-6">test</button>
         <img src="/logo.png" alt="DFINITY logo" className={styles.logo} />
 
         <GreetingSection />
