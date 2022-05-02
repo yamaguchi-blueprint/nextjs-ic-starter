@@ -50,7 +50,7 @@ export const ImageSection = () => {
   }
 
   return (
-    <div>
+    <div className="container mx-auto">
       <section>
         <h2>Image</h2>
         <label htmlFor="name">Upload Image: &nbsp;</label>

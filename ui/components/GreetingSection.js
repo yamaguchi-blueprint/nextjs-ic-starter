@@ -25,7 +25,7 @@ export const GreetingSection = () => {
   }
 
   return (
-    <div>
+    <div className="container mx-auto">
       <section>
         <h2>Greeting</h2>
         <label htmlFor="name">Enter your name: &nbsp;</label>
